@@ -20,4 +20,5 @@ div=(-VB - raiz)/(2*VA)
 
 print('Valor de X1 es igual a: %f ' %div)
 print('Valor de X2es igual a %f: ' %div1)
+print('Valor de X2es igual a %f: ' %div1)
 
